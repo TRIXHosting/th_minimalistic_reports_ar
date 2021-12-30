@@ -3,9 +3,9 @@
 # from odoo import models, fields, api
 
 
-# class th_minimalistic_reports_ar(models.Model):
-#     _name = 'th_minimalistic_reports_ar.th_minimalistic_reports_ar'
-#     _description = 'th_minimalistic_reports_ar.th_minimalistic_reports_ar'
+# class th_invoice_detail(models.Model):
+#     _name = 'th_invoice_detail.th_invoice_detail'
+#     _description = 'th_invoice_detail.th_invoice_detail'
 
 #     name = fields.Char()
 #     value = fields.Integer()
